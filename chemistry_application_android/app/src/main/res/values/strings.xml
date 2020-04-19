@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">chemistryapplication</string>
+    <string name="none">" "</string>
+    <string name="back">" "</string>
+    <string name="bixiuyi">必修一</string>
+    <string name="bixiuer">必修二</string>
+    <string name="xuanxiuwu">选修五</string>
+    <string name="xuanxiusi">选修四</string>
+    <string name="start">顺序查询</string>
+    <string name="button2">元素查询</string>
+    <string name="button3">查看说明     </string>
+    <string name="button4">退出程序     </string>
+    <string name="text">我们是一个由厦门大学化学化工学院，信息学院，电子科技与技术学院的学生组成的团队，致力于为中学生开发涵盖最基础，最广泛内容的化学知识检索APP
+我们的内容以高中化学课本的基础知识点为主，适当拓展课外内容。为了培养学生的实操精神，我们还拍摄了原创的实验视频，加强学生对于知识点的理解记忆</string>
+    <string name="button5">顺序查询</string>
+    <string name="search">搜索</string>
+</resources>
